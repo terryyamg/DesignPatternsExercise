@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Creational 模式">
+        <menu>
+            <item
+                android:id="@+id/simple_factory"
+                android:title="Simple Factory" />
+            <item
+                android:id="@+id/abstract_factory"
+                android:title="Abstract Factory" />
+            <item
+                android:id="@+id/factory_method"
+                android:title="Factory Method" />
+            <item
+                android:id="@+id/builder"
+                android:title="Builder" />
+            <item
+                android:id="@+id/prototype"
+                android:title="Prototype" />
+            <item
+                android:id="@+id/singleton"
+                android:title="Singleton" />
+            <item
+                android:id="@+id/registry_of_singleton"
+                android:title="Registry of Singleton" />
+        </menu>
+    </item>
+
+    <item android:title="Structural 模式">
+        <menu>
+            <item
+                android:id="@+id/default_adapter"
+                android:title="Default Adapter" />
+            <item
+                android:id="@+id/object_adapter"
+                android:title="Object Adapter" />
+            <item
+                android:id="@+id/class_adapter"
+                android:title="Class Adapter" />
+            <item
+                android:id="@+id/bridge"
+                android:title="Bridge" />
+            <item
+                android:id="@+id/composite"
+                android:title="Composite" />
+            <item
+                android:id="@+id/decorator"
+                android:title="Decorator" />
+            <item
+                android:id="@+id/facade"
+                android:title="Facade " />
+            <item
+                android:id="@+id/flyweight"
+                android:title="Flyweight" />
+            <item
+                android:id="@+id/proxy"
+                android:title="Proxy" />
+        </menu>
+    </item>
+
+</menu>
