@@ -1,4 +1,4 @@
-package com.terryyamg.designpatternsexercise;
+package com.terryyamg.designpatternsexercise.FactoryMethod;
 
 import android.util.Log;
 

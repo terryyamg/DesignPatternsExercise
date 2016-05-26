@@ -11,9 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.terryyamg.designpatternsexercise.CheckText;
 import com.terryyamg.designpatternsexercise.R;
-import com.terryyamg.designpatternsexercise.Text;
 
 public class FactoryMethod extends Fragment {
     private EditText etInput;

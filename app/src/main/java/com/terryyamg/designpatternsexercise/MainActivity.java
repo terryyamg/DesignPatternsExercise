@@ -13,6 +13,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.terryyamg.designpatternsexercise.AbstractFactory.AbstractFactory;
+import com.terryyamg.designpatternsexercise.Builder.Builder;
 import com.terryyamg.designpatternsexercise.FactoryMethod.FactoryMethod;
 import com.terryyamg.designpatternsexercise.SimpleFactory.SimpleFactory;
 
@@ -86,6 +87,7 @@ public class MainActivity extends AppCompatActivity
                 fragment = new FactoryMethod();
                 break;
             case R.id.builder:
+                fragment = new Builder();
                 break;
             case R.id.prototype:
                 break;

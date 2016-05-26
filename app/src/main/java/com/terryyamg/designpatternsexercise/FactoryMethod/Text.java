@@ -1,4 +1,4 @@
-package com.terryyamg.designpatternsexercise;
+package com.terryyamg.designpatternsexercise.FactoryMethod;
 
 public abstract class Text{
     private String message;
